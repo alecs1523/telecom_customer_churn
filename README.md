@@ -2,7 +2,7 @@
 
 Data Source --> https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset/discussion?sort=hotness
 
-Presentation Link --> 
+Presentation Link --> https://github.com/alecs1523/telecom_customer_churn/blob/main/customer_churn_anlaysis.pdf
 
 --- 
 
