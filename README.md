@@ -16,8 +16,15 @@ Data Understanding
 # States with the highest churn
 ![image](https://github.com/user-attachments/assets/5e01bd1b-f4f7-4c98-a883-d64fa24633d2)
 
+Takeaways from the above graph:
+
+NJ, CA, and TX have the highest churn rate all 25% and higher
+It is interesting that some of the biggest states have the highest churn
+
 # States with the lowest churn
 ![image](https://github.com/user-attachments/assets/67bb0bc5-20a8-48ba-ae7d-fc446f19e6d4)
+
+
 
 # Evaluating Colinearity w/ Matrix
 ![image](https://github.com/user-attachments/assets/343dc634-71df-4176-abfd-6d587317a7fc)
